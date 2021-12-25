@@ -1,0 +1,55 @@
+body{
+	font-family:"merriweather", serif;
+background-color: rgb(103, 111, 163);
+width: 800px;}
+
+
+h1{
+	font-family: "sacramento";
+	font-size: 100px;
+}
+
+.heading{
+	position: relative;
+	left: 380px;
+}
+.mount1{
+	background-color: rgb(103, 111, 163);
+padding: 60px;
+
+
+
+}
+.name{
+	background-color: rgb(103, 111, 163);
+	padding: 30px;
+	size: 100%;
+
+}
+.mount2{
+	background-color: rgb(103, 111, 163);
+}
+.mountain1{
+ position: relative;
+ left: 900px;
+ top: 100px;
+
+ }
+ .mountain2{
+ 	position: relative;
+ 	left: 180px;
+ 	bottom: 400px;
+ }
+.mountain3{
+	position: relative;
+	left: 180px;
+	
+}
+.p1{
+	position: relative;
+	left: 500px;
+	bottom: 70px;
+	font-family: "Montserrat";
+	font-size: 20px;
+	
+}
